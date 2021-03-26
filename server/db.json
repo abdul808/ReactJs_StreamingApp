@@ -1,0 +1,52 @@
+{
+  "streams": [
+    {
+      "title": "My first Stream",
+      "description": "fantastic",
+      "id": 1
+    },
+    {
+      "title": "My other Stream",
+      "description": "fantastic",
+      "id": 2
+    },
+    {
+      "title": "My other Stream",
+      "description": "fantastic",
+      "id": 3
+    },
+    {
+      "title": "My fourth stream",
+      "description": "just it",
+      "id": 4
+    },
+    {
+      "title": "programmatic  Navigation",
+      "description": "watch!!",
+      "id": 5
+    },
+    {
+      "title": "Login with new user",
+      "description": "just testing",
+      "userId": "106324971772907733828",
+      "id": 6
+    },
+    {
+      "title": "Stream form test",
+      "description": "ing",
+      "userId": "106324971772907733828",
+      "id": 7
+    },
+    {
+      "title": "somethin new",
+      "description": "noting to describe",
+      "id": 8
+    },
+    {
+      "title": "dfdg",
+      "description": "cg",
+      "userId": "106845300385558793353",
+      "id": 9
+    }
+  ]
+}
